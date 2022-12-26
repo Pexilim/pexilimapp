@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160397808536",
+    "project_id": "pexilim-4e4e6",
+    "storage_bucket": "pexilim-4e4e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160397808536:android:d6a33b478893ee1f1051ed",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160397808536-85s4dmde1bcta8a89eku12eo9qfiqiue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbTMtSDhcBfJ4MqXWtbVo5d2Z1X7Rkt8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160397808536-85s4dmde1bcta8a89eku12eo9qfiqiue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
